@@ -1,0 +1,558 @@
+/
+Radisson Blu
+
+Hilltop
+
+Nagpur
+
+440010
+
+450
+
+56
+
+65
+
+Dosa
+Samosa
+Medu Vada
+Green Tea
+Breadsticks
+
+200
+300
+400
+500
+600
+
+0.1
+0.5
+0.4
+0.2
+0.75
+
+Boba Tea
+Dal Makhni
+Butter Chicken
+Pakora
+
+250
+320
+400
+300
+
+0.1
+0.2
+0.5
+
+Pav Bhaji
+Paratha
+Raita
+Kadhi Chawal
+Litti Chokha
+Kofta
+Kachodi
+
+100
+200
+300
+400
+500
+600
+700
+
+0.5
+0.6
+0.7
+0.8
+0.9
+0.4
+0.1
+/
+Toast & Tonic
+
+Santa Cruz
+
+Nagpur
+
+440010
+
+781
+
+78
+
+49
+
+Naan
+Paratha
+Korma
+Dhokla
+Gulab Jamun
+
+450
+302
+410
+290
+240
+
+0.2
+0.5
+0.2
+0.4
+0.5
+
+Vada Pav
+Pakora
+Latte
+
+250
+320
+179
+
+0.05
+0.1
+0.5
+
+Biryani
+Dal Fry
+Tomato Soup
+Plain Rice
+Kofta
+Shahi Paneer
+Mix Veg
+
+101
+202
+303
+404
+505
+606
+707
+
+0.5
+0.6
+0.7
+0.8
+0.9
+0.1
+0.1
+/
+Le Bernardin
+
+Wardha rd
+
+Nagpur
+
+440010
+
+564
+
+89
+
+102
+
+Lasagna
+Pasta
+Pizza
+Risotto
+Samosa
+
+149
+350
+654
+119
+49
+
+0.1
+0.5
+0.5
+0.4
+0.7
+
+Samosa
+Truffle
+Hamburger
+Butter Chicken
+
+350
+420
+429
+450
+
+0.1
+0.4
+0.1
+0.2
+
+Chocolate Waffle
+Caobonara
+Caprese Salad
+Salmon
+Gnochhi
+Ossobucco
+Breadsticks
+
+110
+220
+330
+440
+550
+660
+770
+
+0.5
+0.6
+0.7
+0.8
+0.9
+0.2
+0.3
+/
+Chop Chop Restaurant
+
+Wardha rd
+
+Nagpur
+
+440010
+
+123
+
+12
+
+40
+
+Manchurian
+Hakka Noodles
+Chilli Chicken
+Momos
+Manchow Soup
+
+149
+350
+654
+119
+49
+
+0.2
+0.5
+0.1
+0.4
+0.2
+
+Prawns
+Chicken Lollipops
+Tomato Soup
+
+350
+420
+150
+
+0.1
+0.4
+0.15
+
+Drums of Heaven
+Ramen
+Shashimi
+Yokitari
+Fugi
+Shushi
+Udon Noodles
+
+100
+200
+300
+400
+500
+600
+700
+
+0.5
+0.6
+0.7
+0.8
+0.9
+0.0
+0.1
+/
+Dakshin
+
+Airport rd
+
+Nagpur
+
+440010
+
+12
+
+1
+
+6
+
+Masala Dosa
+Medu Vada
+Pongal
+Idiyappam
+Idli
+
+249
+340
+850
+190
+490
+
+0.1
+0.4
+0.5
+0.4
+0.6
+
+Rasam
+Uttapam
+Upma
+
+340
+410
+310
+
+0.1
+0.7
+0.4
+
+Lemon Rice
+Vada
+Paniyaram
+Coconut Rice
+Chicken 65
+Curd Rice
+Sambhar
+
+241
+200
+119
+449
+504
+199
+299
+
+0.5
+0.6
+0.4
+0.2
+0.7
+0.7
+0.3
+/
+Chill n Grill
+
+Hightown rd
+
+Nagpur
+
+440010
+
+400
+
+34
+
+33
+
+Spring Rolls
+Masala Chaat
+Tornadoes
+Veg Handi
+Biryani
+
+249
+340
+850
+190
+490
+
+0.1
+0.4
+0.5
+0.4
+0.6
+
+Pasta Salad
+Breadsticks
+Mexican Patty
+
+340
+410
+90
+
+1.1
+0.7
+0.6
+
+Veg Parcel
+Garlic Bread
+Burger Pizza
+Taco
+Vada
+Chicken Wings
+Choco Lava
+
+241
+200
+119
+449
+504
+199
+299
+
+0.5
+0.6
+0.4
+0.2
+0.7
+0.7
+0.3
+/
+Thai Me Up
+
+Downtown
+
+Nagpur
+
+440010
+
+45
+
+50
+
+112
+
+Mango Sticky Rice
+Tom Yung Goom
+Thai Fried Noodles
+Pad Thai
+Som Tom
+Khao Pad
+
+149
+159
+169
+179
+189
+199
+
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+
+Thai Green Chicken Curry
+Khao Pod Tod
+Thai Pomelo Salad
+
+299
+399
+499
+
+0.2
+0.45
+0.6
+
+Crunchy Roll
+Thai Pineapple Rice
+Thai Noodle Soup
+Basil Chicken
+Chicken and Tofu Satay
+Rocky's Pad Thai
+Massaman Curry
+
+99
+109
+119
+129
+139
+149
+159
+
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+/
+Herbivoria
+
+Hyperloop rd
+
+Nagpur
+
+440010
+
+100
+
+102
+
+46
+
+Sarsoon Da Saag
+Misal Pav
+Bhelpuri
+Mattar Paneer
+Malai Kofta
+Bombay Sandwich
+
+219
+229
+239
+249
+259
+269
+
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+
+Bombay Sandwich
+Gobi Manchurian
+Dahi Vada
+Rajma Chawal
+
+119
+129
+139
+149
+
+0.1
+0.2
+0.3
+0.4
+
+Rajasthani Thali
+Maharashtrian Thali
+Karnataka Thali
+Kerela Thali
+Kathiawadi Thali
+Punjabi Thali
+Kashmiri Thali
+
+59
+69
+79
+89
+99
+109
+119
+
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
